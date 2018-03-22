@@ -8,10 +8,10 @@ Time spent: **2** hours spent in total
 
 The following **required** user stories are complete:
 
-- [ ] User can drag card using a pan gesture (+1pt)
-- [ ] Card rotates as user pans (+1pt)
-- [ ] Card animates when user ends panning gesture (+2pt)
-- [ ] User can view profile - basic modal transition (+1pt)
+- [X] User can drag card using a pan gesture (+1pt)
+- [X] Card rotates as user pans (+1pt)
+- [X] Card animates when user ends panning gesture (+2pt)
+- [X] User can view profile - basic modal transition (+1pt)
 
 The following **stretch** user stories are implemented:
 
@@ -26,7 +26,7 @@ Please list two areas of the assignment you'd like to **discuss further with you
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/jBxz9l0.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
